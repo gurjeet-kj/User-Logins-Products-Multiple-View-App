@@ -2,7 +2,7 @@
 Users And Products related Android App
 
 •	Create an application with 3 screens
-•	the first is a login screen with username and password: create a client class contains name of the client, address, username and password. fill some clients and use their username and password for verification.
+•	the first screen is a login screen with username and password: create a client class contains name of the client, address, username and password. fill some clients and use their username and password for verification.
 •	if the client enters their valid username and password, go to the 2nd screen. if not show a message says invalid username or password.
 •	the 2nd screen starts with a title up says welcome and the client name
 •	show a list contains products' names, prices, and small image.
